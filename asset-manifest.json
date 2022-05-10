@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-colors-hosted/static/css/main.ef973084.css",
+    "main.js": "/react-colors-hosted/static/js/main.1eedd166.js",
+    "static/media/bg.svg": "/react-colors-hosted/static/media/bg.5f26c5a47fdbf7fd569f723436cce3d6.svg",
+    "index.html": "/react-colors-hosted/index.html",
+    "main.ef973084.css.map": "/react-colors-hosted/static/css/main.ef973084.css.map",
+    "main.1eedd166.js.map": "/react-colors-hosted/static/js/main.1eedd166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef973084.css",
+    "static/js/main.1eedd166.js"
+  ]
+}
